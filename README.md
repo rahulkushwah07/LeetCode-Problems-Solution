@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1991-find-the-middle-index-in-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
