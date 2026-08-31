@@ -1,24 +1,44 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-      
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        int max = 0;
+        for (int i = 0; i < intervals.length; i++) {
+            max = Math.max(intervals[i][0], max);
+        }
 
-        List<int[]> merged = new ArrayList<>();
-        int[] prev = intervals[0];
+        int[] mp = new int[max + 1];
+        for (int i = 0; i < intervals.length; i++) {
+            int start = intervals[i][0];
+            int end = intervals[i][1];
+            mp[start] = Math.max(end + 1, mp[start]);
+        }
 
-        for (int i = 1; i < intervals.length; i++) {
-          
-            if (intervals[i][0] <= prev[1]) {
-              
-                prev[1] = Math.max(prev[1], intervals[i][1]);
-            } else {
-              
-                merged.add(prev);
-                prev = intervals[i];
+        int r = 0;
+        int have = -1;
+        int intervalStart = -1;
+        for (int i = 0; i < mp.length; i++) {
+            if (mp[i] != 0) {
+                if (intervalStart == -1) intervalStart = i;
+                have = Math.max(mp[i] - 1, have);
+            }
+            if (have == i) {
+                intervals[r++] = new int[] { intervalStart, have };
+                have = -1;
+                intervalStart = -1;
             }
         }
 
-        merged.add(prev);
-        return merged.toArray(new int[merged.size()][]);
+        if (intervalStart != -1) {
+            intervals[r++] = new int[] { intervalStart, have };
+        }
+        if (intervals.length == r) {
+            return intervals;
+        }
+
+        int[][] res = new int[r][];
+        for (int i = 0; i < r; i++) {
+            res[i] = intervals[i];
+        }
+
+        return res;
     }
 }
