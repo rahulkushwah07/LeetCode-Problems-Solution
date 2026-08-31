@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [2396-strictly-palindromic-number](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
 ## Minimax
 |  |
