@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0724-find-pivot-index) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
