@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1991-find-the-middle-index-in-array) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
