@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
