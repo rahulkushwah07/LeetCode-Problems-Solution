@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [2396-strictly-palindromic-number](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0652-find-duplicate-subtrees) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1052-grumpy-bookstore-owner) |
