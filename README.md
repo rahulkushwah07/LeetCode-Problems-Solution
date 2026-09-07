@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0693-binary-number-with-alternating-bits) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
