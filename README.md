@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0652-find-duplicate-subtrees) |
+| [2236-root-equals-sum-of-children](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0652-find-duplicate-subtrees) |
+| [2236-root-equals-sum-of-children](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
 | ------- |
