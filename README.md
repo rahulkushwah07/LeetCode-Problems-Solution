@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0652-find-duplicate-subtrees) |
+| [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3945-digit-frequency-score](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3945-digit-frequency-score) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
