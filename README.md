@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1991-find-the-middle-index-in-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0056-merge-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
