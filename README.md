@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0652-find-duplicate-subtrees) |
 | [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
