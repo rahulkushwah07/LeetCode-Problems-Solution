@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 ## Graph Theory
 |  |
