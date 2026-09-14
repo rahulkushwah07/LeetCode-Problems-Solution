@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3668-restore-finishing-order](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
