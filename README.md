@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3174-clear-digits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
