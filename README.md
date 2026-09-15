@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2469-convert-the-temperature) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
+| [1323-maximum-69-number](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1323-maximum-69-number) |
 ## Sliding Window
 |  |
 | ------- |
