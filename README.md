@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0652-find-duplicate-subtrees) |
 | [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3668-restore-finishing-order) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
