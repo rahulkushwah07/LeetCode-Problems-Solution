@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2678-number-of-senior-citizens](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3668-restore-finishing-order) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2315-count-asterisks](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2315-count-asterisks) |
+| [2678-number-of-senior-citizens](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3174-clear-digits) |
 | [3894-traffic-signal-color](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3894-traffic-signal-color) |
