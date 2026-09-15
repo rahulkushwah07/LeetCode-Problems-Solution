@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3174-clear-digits) |
+| [3894-traffic-signal-color](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2315-count-asterisks) |
 | [3110-score-of-a-string](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3174-clear-digits) |
+| [3894-traffic-signal-color](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
 | ------- |
