@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2469-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/3174-clear-digits) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/rahulkushwah07/LeetCode-Problems-Solution/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
